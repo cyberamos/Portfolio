@@ -10,7 +10,7 @@
 
 ## 🚀 Greetings, and Welcome to My Personal Portfolio! 🚀
 
-Hey there! I'm Amos Sinon Toluwalase, an individual driven by a profound passion for the dynamic realm of computer science, especially in the captivating domain of cybersecurity. Within this repository lies my personal portfolio website, meticulously crafted to embody my journey, skills, and fervor for all things tech.
+Hey there! I'm Amos Simon Toluwalase, an individual driven by a profound passion for the dynamic realm of computer science, especially in the captivating domain of cybersecurity. Within this repository lies my personal portfolio website, meticulously crafted to embody my journey, skills, and fervor for all things tech.
 
 What You'll Discover Here:
 

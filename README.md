@@ -1,5 +1,5 @@
 # Personal Portfolio ⚡️
-> https://sayedabdou.github.io/
+> https://Amos-T.github.io/
 
 ⭐ Star me on GitHub — it helps!
 
@@ -10,7 +10,7 @@
 
 ## 🚀 Greetings, and Welcome to My Personal Portfolio! 🚀
 
-Hey there! I'm Oudjani Seyyid Taqy Eddine, an individual driven by a profound passion for the dynamic realm of computer science, especially in the captivating domain of cybersecurity. Within this repository lies my personal portfolio website, meticulously crafted to embody my journey, skills, and fervor for all things tech.
+Hey there! I'm Amos Sinon Toluwalase, an individual driven by a profound passion for the dynamic realm of computer science, especially in the captivating domain of cybersecurity. Within this repository lies my personal portfolio website, meticulously crafted to embody my journey, skills, and fervor for all things tech.
 
 What You'll Discover Here:
 

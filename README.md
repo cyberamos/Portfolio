@@ -1,5 +1,5 @@
 # Personal Portfolio ⚡️
-> https://Amos-T.github.io/
+> https://cyberamos.pages.dev
 
 ⭐ Star me on GitHub — it helps!
 

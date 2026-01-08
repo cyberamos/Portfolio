@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cyberamos.pages.dev/sitemap.xml

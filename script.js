@@ -7,7 +7,8 @@ const typed = {
     "Penetration Tester", 
     "Security Analyst", 
     "Web Developer", 
-    "Ethical Hacker"
+    "Ethical Hacker",
+    "Cinematographer"
   ],
   currentIndex: 0,
   charIndex: 0,

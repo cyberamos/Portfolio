@@ -375,6 +375,11 @@ section {
   color: var(--primary-color);
 }
 
+.cert{
+  height: 200px;
+  width: 500px;
+}
+
 .cert-content {
   padding: 25px;
 }

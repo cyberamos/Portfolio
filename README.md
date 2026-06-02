@@ -1,12 +1,12 @@
 # Personal Portfolio ⚡️
-> https://cyberamos.pages.dev
+> https://cyberamos.vercel.app
 
 ⭐ Star me on GitHub — it helps!
 
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/sayedabdou/sayedabdou.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://sayedabdou.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/sayedabdou/)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/cyberamos.github.io/commits/master)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://cyberamos.github.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/amostoluwalase/)
+<!-- [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) -->
 
 ## 🚀 Greetings, and Welcome to My Personal Portfolio! 🚀
 
@@ -26,6 +26,6 @@ Feel free to navigate through my portfolio and gain insights into my skills, exp
 
 Thanks for dropping by! 🌐✨
 ## License
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+<!-- [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- **[MIT license](http://opensource.org/licenses/mit-license.php)** -->
